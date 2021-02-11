@@ -1,2 +1,2 @@
 # Data_vis
-Projects involving data visualization
+Different projects involving data visualization
