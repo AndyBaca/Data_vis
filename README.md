@@ -1,7 +1,10 @@
 # Data_vis
-Information of the different projects involving data visualization
+
+## Information of the different projects involving data visualization
 
 A/B testing: I used ANOVA & Tukey's test to determine which promotion did the best in sales
+
+Rent: I used multiple linear regression to investigate and predict the rent in Manhattan 
 
 Biodiversity: Some observations from the National parks service
 
